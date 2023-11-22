@@ -1,0 +1,1 @@
+Python project creation automation script
